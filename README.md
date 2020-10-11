@@ -1,5 +1,8 @@
 # Spoti-Stats
 
-### Literally just gets your stats from Spotify and saves them to files.
+**Literally just gets your stats from Spotify.**
 
-##### Can be used for streams, podcasts, whatever you want.
+## 'How do I use it'?
+
+### Navigate to 'sbst/start.exe' and open it. If you want to change the output, go to 'sbst/settings.txt'.
+### All the output can be found in 'sbst/output'.
