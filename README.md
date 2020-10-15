@@ -6,3 +6,7 @@
 
 **Navigate to 'sbst/start.exe' and open it. If you want to change the output, go to 'sbst/settings.txt'.**
 **All the output can be found in 'sbst/output'.**
+
+## 'I can't find the settings!'
+
+**You need to run it first. It literally says this.**
